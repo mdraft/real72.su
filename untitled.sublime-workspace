@@ -1,0 +1,961 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"st",
+				"strong	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "real.css",
+			"settings":
+			{
+				"buffer_size": 1707,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5616,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contakty.html",
+			"settings":
+			{
+				"buffer_size": 3708,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "metrika.js",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "proekty.html",
+			"settings":
+			{
+				"buffer_size": 5292,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ceny.html",
+			"settings":
+			{
+				"buffer_size": 3197,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "congr2.html",
+			"settings":
+			{
+				"buffer_size": 1139,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "derevoobrabotka.html",
+			"settings":
+			{
+				"buffer_size": 4142,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "obshivka.html",
+			"settings":
+			{
+				"buffer_size": 3806,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "osteklenie.html",
+			"settings":
+			{
+				"buffer_size": 4128,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Tag ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mdraft/Dropbox/sites/2014-09-27 real72.su/archive&backup/ite/indexnew.html",
+		"/Users/mdraft/Dropbox/sites/2014-09-27 real72.su/archive&backup/ite/ceny.html",
+		"/Users/mdraft/Dropbox/sites/2014-09-27 real72.su/archive&backup/ite/proekty.html",
+		"/Users/mdraft/Dropbox/sites/2014-09-27 real72.su/archive&backup/ite/contakty.html",
+		"/Users/mdraft/Dropbox/sites/2008-11-29 neo74.ru/outbox/2015 база телефонов/2015-08-2016-02 neo74.txt",
+		"/Users/mdraft/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/mdraft/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/mdraft/Dropbox/sites/2005-02-21 m-draft.com/design/2016-03-05 Дизайн сайта m-draft бабочка/startbootstrap-mdraft/css/agency.css",
+		"/Users/mdraft/Dropbox/sites/xaamp.sublime-workspace",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/d68c4e00-dc6e-497d-a5fd-d471e689b348/test.m-draft.com/docs/index.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/fe59e1a7-5921-49d8-b3c7-57e12ea6a7b7/public_html/splav-tyumen.ru/bb4144d3bcc0.html",
+		"/Users/mdraft/Dropbox/sites/2015-08-15 Сплав-Тюмень/d7ef88aa46b4",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/fe59e1a7-5921-49d8-b3c7-57e12ea6a7b7/public_html/splav-tyumen.ru/catalog/view/theme/default/template/common/footer.tpl",
+		"/Users/mdraft/Sites/splav-tyumen.local/catalog/view/theme/default/template/common/footer.tpl",
+		"/Users/mdraft/Sites/splav-tyumen.local/catalog/language/russian/common/footer.php",
+		"/Users/mdraft/Sites/splav-tyumen.local/admin/language/russian/setting/setting.php",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/fe59e1a7-5921-49d8-b3c7-57e12ea6a7b7/public_html/splav-tyumen.ru/catalog/language/russian/common/footer.php",
+		"/Users/mdraft/Sites/splav-tyumen.local/install1/opencart.sql",
+		"/Users/mdraft/Sites/splav-tyumen.local/catalog/language/russian/information/contact.php",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/fe59e1a7-5921-49d8-b3c7-57e12ea6a7b7/public_html/splav-tyumen.ru/admin/view/template/common/footer.tpl",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/fe59e1a7-5921-49d8-b3c7-57e12ea6a7b7/public_html/splav-tyumen.ru/admin/view/template/common/home.tpl",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/fe59e1a7-5921-49d8-b3c7-57e12ea6a7b7/public_html/splav-tyumen.ru/catalog/view/theme/default/template/common/content_top.tpl",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/fe59e1a7-5921-49d8-b3c7-57e12ea6a7b7/public_html/splav-tyumen.ru/catalog/view/theme/default/template/common/header.tpl",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/fe59e1a7-5921-49d8-b3c7-57e12ea6a7b7/public_html/splav-tyumen.ru/catalog/view/theme/default/template/common/maintenance.tpl",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/fe59e1a7-5921-49d8-b3c7-57e12ea6a7b7/public_html/splav-tyumen.ru/catalog/view/theme/default/template/common/home.tpl",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/d68c4e00-dc6e-497d-a5fd-d471e689b348/bit.vmagnitke.ru/docs/db_connection.php",
+		"/Users/mdraft/Dropbox/sites/2008-11-29 neo74.ru/inbox/2016-01-19 Бит качество/2016-02-09 База2/u253916832_kack.sql",
+		"/Users/mdraft/Dropbox/sites/2012-07-01 dentist74.ru/design/sliced/main-slide26-vk1.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/zpvs.uralsn.ru/index.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/zpvs.uralsn.ru/zakaz-pigment..html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/zpvs.uralsn.ru/zakaz-pigment.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/oxidfe.uralsn.ru/podrobnee1.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/oxidfe.uralsn.ru/podrobnee2.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/oxidfe.uralsn.ru/podrobnee3.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/oxidfe.uralsn.ru/vse-oksidy-optom-fe-oxigen.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/oxidfe.uralsn.ru/vse-oksidy-optom-fe-oxigen2.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/oxidfe.uralsn.ru/index.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/d68c4e00-dc6e-497d-a5fd-d471e689b348/bit.vmagnitke.ru/docs/.htaccess",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/d68c4e00-dc6e-497d-a5fd-d471e689b348/bit.vmagnitke.ru/docs/pages/categories.php",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/d68c4e00-dc6e-497d-a5fd-d471e689b348/bit.vmagnitke.ru/docs/pages/organizations.php",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/d68c4e00-dc6e-497d-a5fd-d471e689b348/bit.vmagnitke.ru/docs/pages/ankets.php",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/d68c4e00-dc6e-497d-a5fd-d471e689b348/bit.vmagnitke.ru/docs/index.php",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/d68c4e00-dc6e-497d-a5fd-d471e689b348/bit.vmagnitke.ru/docs/auth.php",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/63930435-3ca7-4f3d-950b-7d081af3dd2f/neo74.ru/html/configuration.php",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/35c617c6-1de8-4904-9d11-621e7736e22c/public_html/templates/atomic/css/template.css",
+		"/Volumes/homes/admin/site/2012-10-03 bannoe.rf/2012-10-05 ski-bannoe.ru/inbox/2016-01-27 Фото инструкторов/расписание.html",
+		"/Volumes/homes/admin/site/2012-10-03 bannoe.rf/2012-10-05 ski-bannoe.ru/inbox/2016-01-27 Фото инструкторов/instructors/photo-instr.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/35c617c6-1de8-4904-9d11-621e7736e22c/public_html/templates/atomic/index.php",
+		"/Users/mdraft/Library/Caches/TemporaryItems/codemirror.php",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/fastmodul.ru/templates/index_files/ploneStyles4659.css",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a4a0e8d7-73dc-48f9-8003-9cedad689fa4/fastmodul.ru/templates/index_files/ploneStyles6056.css",
+		"/Users/mdraft/Sites/fastmodul.local/images/guardpost/config1/index.html",
+		"/Users/mdraft/Dropbox/sites/2016-01-20 Восток 2016/inbox/2016-01-21 picachoose/examples/bottom/with-carousel.html",
+		"/Users/mdraft/Downloads/shri-rasp/test.json",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/6b19fa92-552c-4c17-b384-c9fc1417f315/neo74.ru/html/templates/neo74/css/template.css",
+		"/Users/mdraft/Dropbox/sites/2008-11-29 neo74.ru/inbox/2015-07-27 Прайс домашние уходы/dr-babor-lic.oldd",
+		"/Users/mdraft/Dropbox/sites/2008-11-29 neo74.ru/inbox/2015-07-27 Прайс домашние уходы/babor-sun.html",
+		"/Users/mdraft/Dropbox/sites/2008-11-29 neo74.ru/inbox/2015-07-27 Прайс домашние уходы/babor-fp.html",
+		"/private/var/folders/h5/qz66lg6x0pn3fmzbmzch258c0000gn/T/a0df9081-1f0d-42d3-ae26-2c5eec9cf65b/www/oranda-show.ru/plugins/system/aklazy.php",
+		"/Users/oleg/Dropbox/sites/2015-02-27 СтандартаНЕТ/html/index-photo.html",
+		"/Users/oleg/Dropbox/sites/2015-02-27 СтандартаНЕТ/html/index-photo_files/jquery.fancybox.js",
+		"/Users/oleg/Dropbox/sites/2015-02-27 СтандартаНЕТ/html/index-photo_files/bootstrap.min.js",
+		"/Users/oleg/Dropbox/sites/2015-02-27 СтандартаНЕТ/html/index-photo_files/util.js",
+		"/Users/oleg/Dropbox/sites/2015-02-27 СтандартаНЕТ/html/elements_files/jquery.validate.js",
+		"/Users/oleg/Dropbox/sites/2015-02-27 СтандартаНЕТ/html/index-photo_files/style.css",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2015-02-26 Белая магия/спорт",
+		"/Users/oleg/Dropbox/sites/2012-07-01 dentist74.ru/inbox/2015-02-22 Ортопедия цены/ортопедия.html",
+		"/Users/oleg/Dropbox/sites/2008-11-29 neo74.ru/inbox/2015-02-10 Изменения главной/2.html",
+		"/Volumes/Volume_1/temp/1",
+		"/Users/oleg/Dropbox/sites/2015-01-29 СУ-1/html/index-photo_files/style.css",
+		"/Users/oleg/Dropbox/sites/2015-01-29 СУ-1/html/elements.html",
+		"/Users/oleg/Dropbox/sites/2011-09-10 reeal.ru РАЙОНЫ/design-РАЙОНЫ/2015-01-10 Новая реклама/СТС/замечания.txt",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/berezki.net/inbox/2015-01-15 Вирь проститутки/see.php",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/berezki.net/inbox/2015-01-15 Вирь проститутки/view.php",
+		"/Users/oleg/Sites/yii.local/www/new2/index",
+		"/Users/oleg/Sites/yii.local/www/new2/index.html",
+		"/Users/oleg/Sites/yii.local/www/new2/oxidferum1",
+		"/Users/oleg/Sites/yii.local/www/new2/oxidferum",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2015-01-16 Медвежонок обновление/медвежонок-old.html",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2014-12-30 НГ  и графики/цены и график НГ.html",
+		"/Users/oleg/Dropbox/sites/2011-09-10 reeal.ru/design/2015-01-13 РЕАЛЬНЫЙ/tarif-new.html",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2014-12-30 НГ  и графики/«Праздник под ключ» в Горнолыжном центре «Метал",
+		"/Users/oleg/Downloads/новый год/Ванны   центр отделочных материалов Европа_files/newyear.js",
+		"/Users/oleg/Downloads/новый год/Ванны   центр отделочных материалов Европа_files/AaeJRNp8QJz.js",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2014-12-30 НГ  и графики/old/график старый.html",
+		"/Users/oleg/Sites/yii.local/www/seorubl-parser/dent2014/dent2014.csv",
+		"/Users/oleg/Sites/yii.local/www/seorubl-parser/dent2014/2.htm",
+		"/Users/oleg/Sites/yii.local/www/seorubl-parser/result.txt",
+		"/Users/oleg/Dropbox/sites/2008-11-29 neo74.ru/inbox/2014-12-24 снег/snow.html",
+		"/Users/oleg/Dropbox/sites/2008-11-29 neo74.ru/inbox/2014-12-24 снег/snowstorm-min.js",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2014-12-09 ИГРЫ ОЛИМПИАДА/Instructions.txt",
+		"/Users/oleg/Dropbox/sites/2013-11-20 avpp72.ru/inbox/2014-12-05 О проекте/фотогалерея.txt",
+		"/Users/oleg/Dropbox/sites/2011-09-10 reeal.ru РАЙОНЫ/design-РАЙОНЫ/2014-12-08 КА вывеска/КА вывеска.txt",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2014-12-05 новый график Медвежонок/Группа СОВЕРШЕНСТВО.html",
+		"/Users/oleg/Dropbox/sites/2011-09-10 reeal.ru/inbox/2014-12-02 Продление и новогодний/old-вклады.html",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2014-11-26 Анализ логов/custom_log.csv",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2014-11-26 Анализ логов/custom_log",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/inbox/2014-11-26 Анализ логов/error_log",
+		"/Users/oleg/Downloads/reg.reg",
+		"/Users/oleg/Dropbox/sites/2012-10-03 bannoe.rf/ski-bannoe.ru/961f1526370d.html",
+		"/Users/oleg/Dropbox/sites/2008-11-29 neo74.ru/inbox/2014-11-19 light box/jquery.lightbox.js",
+		"/Users/oleg/Dropbox/sites/2008-11-29 neo74.ru/inbox/2014-11-19 light box/lightbox.html",
+		"/Users/oleg/Sites/m-draft.bakup/templates/theme987/css/style1.css",
+		"/Users/oleg/Sites/avpp72.local/framework/gii/assets/css/main.css",
+		"/Volumes/Volume_1/site/2013-11-20 avpp72.ru/inbox/2014-10-20 Соцпроекты/sociation.php",
+		"/Users/oleg/Dropbox/sites/2011-09-10 reeal.ru/КП-Магнитогорск/ТЕЛЕСЕМЬ/предложение.txt",
+		"/Users/oleg/Dropbox/sites/2012-07-01 dentist74.ru/inbox/2014-10-07 Новый прайс-лист Дантист/old/otbel.html",
+		"/Users/oleg/Dropbox/sites/2012-07-01 dentist74.ru/inbox/2014-10-07 Новый прайс-лист Дантист/old/paradont.html",
+		"/Users/oleg/Dropbox/sites/2012-07-01 dentist74.ru/inbox/2014-10-07 Новый прайс-лист Дантист/old/impl.html",
+		"/Users/oleg/Dropbox/sites/2012-07-01 dentist74.ru/inbox/2014-10-07 Новый прайс-лист Дантист/old/hirurg.html",
+		"/Volumes/Volume_1/site/2008-11-29 neo74.ru/inbox/2014-10-02 Иконки для магазина/neo-shop.html",
+		"/Users/oleg/Dropbox/sites/2012-07-01 dentist74.ru/inbox/2014-10-07 Новый прайс-лист Дантист/old/det.html",
+		"/Users/oleg/Dropbox/sites/2012-07-01 dentist74.ru/inbox/2014-10-07 Новый прайс-лист Дантист/old/orto.html",
+		"/Users/oleg/Dropbox/sites/2012-07-01 dentist74.ru/inbox/2014-10-07 Новый прайс-лист Дантист/old/terapvt.html",
+		"/Users/oleg/Dropbox/sites/2008-11-29 neo74.ru/inbox/2014-10-05 Прайсы Переформатирование/spa.html",
+		"/Users/oleg/Dropbox/sites/2008-11-29 neo74.ru/inbox/2014-10-05 Прайсы Переформатирование/injection-price.html",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/Home.html",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/FAQs.html",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/Our History.html",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/Our Team.html",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/Services.html",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/sizes.php",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/Testimonials.html",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/css/template.css",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/css/tooltips.css",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/css/framework-reset.css",
+		"/Volumes/Volume_1/site/m-draft.com/inbox/2014-09-19 DIZO шаблон m-draft.com/HTML2/css/gantry.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&nbsp;",
+			";\">",
+			"pic",
+			"<img",
+			"&nbsp;",
+			"<p>&nbsp;</p>",
+			"<img ",
+			"  &nbsp;",
+			"&nbsp;",
+			"</em>",
+			"<em>",
+			"href=\"/fav",
+			"href=\"real.css\">",
+			"real72.ru",
+			"<img src=\"real72_logo.png\" width=\"186\">",
+			"width=\"200\" height=\"270\">",
+			"&nbsp;₽",
+			"рублей",
+			"\"/\"",
+			"не",
+			"ьые",
+			"width=\"40%\"",
+			"width=\"460\" height=\"345\"",
+			"\"pic\"",
+			"&nbsp;",
+			"height=\"345\" />",
+			"<img",
+			"</span></p>",
+			"  <p align=\"right\"><span class=\"стиль2\">",
+			"<p align=\"right\" class=\"стиль2\">",
+			"max",
+			";\n",
+			"style=\"padding: 0px 10px 0px 10px; float:left;\"",
+			";\n",
+			"0px 10px 0px 10px;",
+			"align=\"center\"",
+			"width=\"200\"",
+			"14px",
+			"<td width=\"10\" bgcolor=\"#EEEEEE\">&nbsp;</td>",
+			"990",
+			"border=\"0\"",
+			"border=1",
+			"<p>&nbsp;</p>\n<p>&nbsp;</p>",
+			"</title>",
+			"<head>",
+			"<!-- Yandex.Metrika counter -->\n<div style=\"display:none;\"><script type=\"text/javascript\">\n(function(w, c) {\n    (w[c] = w[c] || []).push(function() {\n        try {\n            w.yaCounter10295512 = new Ya.Metrika({id:10295512, enableAll: true});\n        }\n        catch(e) { }\n    });\n})(window, \"yandex_metrika_callbacks\");\n</script></div>\n<script src=\"mc.yandex.ru/metrika/watch.js\" type=\"text/javascript\" defer=\"defer\"></script>\n<noscript><div><img src=\"mc.yandex.ru/watch/10295512\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
+			"<title>",
+			"<!DOCTYPE html>\n<html>  \n\n<head><link rel=\"stylesheet\" type=\"text/css\" href=\"real.css\">\n\n<title>",
+			"<!--\nbody,td,th {\n	font-family: Verdana, Arial, Helvetica, sans-serif;\n}\n.st1 {	color: #03176F;\n	font-size: 24px;\n}\n.стиль2 {font-size: small}\n.st3 {color: #000099}\n.стиль4 {font-size: 10px}\n-->",
+			"<!--\nbody,td,th {\n	font-family: Verdana, Arial, Helvetica, sans-serif;\n}\n.st1 {\n	color: #03176F;\n	font-size: 24px;\n}\n.st3 {font-size: 9px}\n.стиль4 {font-size: medium}\n-->",
+			"#FF0000",
+			"width=\"186\" height=\"64\"",
+			"ООО <Реал+>",
+			"<Реал+>",
+			"ООО «Реал+»",
+			"© 2010",
+			"стиль3",
+			"стиль1",
+			"href=\"/",
+			"src=\"/",
+			"href=\"/",
+			"\"Roboto\"",
+			"\"Droid Serif\"",
+			"Montserrat",
+			"Roboto Slab",
+			"max",
+			"portfolio",
+			"Portfolio",
+			"itali",
+			"@media",
+			"page-scroll",
+			"navbar-shrink",
+			"#fed136",
+			"btn",
+			"Удалить",
+			"подтвержден	",
+			" 0",
+			"00",
+			"<span class=\"ruble\">p</span>",
+			" 700₽",
+			" 800₽",
+			" 500₽",
+			" 000₽",
+			"000₽",
+			"Лифт",
+			"Лиф",
+			"<span class=\"ruble\">p</span>",
+			"information/contact",
+			"index.php?route=common/home",
+			"bread",
+			"Главная",
+			"link",
+			"mysql_set_charset",
+			"1251",
+			"<br>",
+			"<p>\n      <p>",
+			"<p>",
+			"<p>\n            <p>",
+			"Цен",
+			"Цены",
+			"div",
+			"<div>",
+			"comp",
+			"<table",
+			"     </tbody>\n      <tbody>",
+			"</tbody>",
+			"td ",
+			"red",
+			"redi",
+			"redirect",
+			"Парк",
+			"МК",
+			"при",
+			"&nbsp;",
+			"<p>",
+			"</span>",
+			"<span>",
+			"</span>",
+			"<span >",
+			"style=\"color: #888888;\"",
+			"style=\"color: #000000;\"",
+			"font-size: 17.6px;",
+			"ul",
+			"<span >",
+			"style=\"font-size: 17.6px;\"",
+			"муньки",
+			"padding: 2px",
+			"3px;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href=\"fav",
+			"href=\"/fav",
+			"href=\"real.css\"> <link rel=\"icon\" href=\"/favicon.ico\" type=\"image/x-icon\">",
+			"href=\"real.css\">",
+			"real72.su",
+			"<a href=index.html><img src=\"real72_logo.png\" width=\"186\"></a>",
+			"\"index.html\"",
+			"<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n\n</body>\n</html>",
+			"</title>\n</head>\n<body>",
+			"<head><script type=\"text/javascript\" src=\"metrika.js\"></script>",
+			"<script type=\"text/javascript\" src=\"metrika.js\"></script>",
+			"",
+			"<!DOCTYPE html>\n<html>  \n\n<head><link rel=\"stylesheet\" type=\"text/css\" href=\"real.css\">\n\n<title>",
+			"<!DOCTYPE html>\n<html>  \n\n<head><link rel=\"stylesheet\" type=\"text/css\" href=\"real.css\">",
+			"",
+			"<!--\nbody,td,th {\n	font-family: Verdana, Arial, Helvetica, sans-serif;\n}\n.st1 {	color: #03176F;\n	font-size: 24px;\n}\n.стиль2 {font-size: small}\n.st3 {color: #000099}\n.стиль4 {font-size: 10px}\n-->",
+			"",
+			"#03176F",
+			"",
+			"Тюменская балконная компания ООО «Реал+»",
+			"© 2010-2016",
+			"st3",
+			"st1",
+			"href=\"",
+			"src=\"",
+			"/images/stories/article/",
+			"\"",
+			":",
+			"\";\\n}\\n.",
+			"\";\\n}.",
+			":before {\\n",
+			".icon-i-",
+			".icon-i-e",
+			"\\n content: \"\\\\",
+			"\\n",
+			"",
+			"7",
+			"^7",
+			"7",
+			"</li>",
+			"<li>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "real.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								998,
+								998
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5616,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										4951,
+										4953
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								1945,
+								1945
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "contakty.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1609,
+								1609
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "metrika.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								884,
+								884
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "proekty.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5274,
+								5274
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ceny.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3197,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										1415,
+										1418
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								2563,
+								2563
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 430.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "congr2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "derevoobrabotka.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3065,
+								3048
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "obshivka.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3181,
+								3181
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 752.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "osteklenie.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1873,
+								1816
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 617.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
