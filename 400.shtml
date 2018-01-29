@@ -2,7 +2,7 @@
 <HTML><HEAD>
 <TITLE>400 Bad Request</TITLE>
 </HEAD><BODY>
-<H1>Bad Request</H1>
+<H1>Bad Request! 400000</H1>
 There was an error in your request.
 <HR>
 <I><!--#echo var="HTTP_HOST" --></I>
